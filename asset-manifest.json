@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tractian-app/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/tractian-app/static/js/main.d02d7b39.chunk.js",
+    "main.js.map": "/tractian-app/static/js/main.d02d7b39.chunk.js.map",
+    "runtime-main.js": "/tractian-app/static/js/runtime-main.59641348.js",
+    "runtime-main.js.map": "/tractian-app/static/js/runtime-main.59641348.js.map",
+    "static/js/2.2b09c295.chunk.js": "/tractian-app/static/js/2.2b09c295.chunk.js",
+    "static/js/2.2b09c295.chunk.js.map": "/tractian-app/static/js/2.2b09c295.chunk.js.map",
+    "static/js/3.9263262e.chunk.js": "/tractian-app/static/js/3.9263262e.chunk.js",
+    "static/js/3.9263262e.chunk.js.map": "/tractian-app/static/js/3.9263262e.chunk.js.map",
+    "index.html": "/tractian-app/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/tractian-app/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.2b09c295.chunk.js.LICENSE.txt": "/tractian-app/static/js/2.2b09c295.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/tractian-app/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59641348.js",
+    "static/js/2.2b09c295.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.d02d7b39.chunk.js"
+  ]
+}
