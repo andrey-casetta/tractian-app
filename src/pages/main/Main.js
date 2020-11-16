@@ -9,7 +9,6 @@ import { ArrowUpOutlined, ArrowDownOutlined } from '@ant-design/icons';
 import {
   Layout,
   PageHeader,
-  Space,
   Card,
   Descriptions,
   Collapse,
