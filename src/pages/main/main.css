@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Varela+Round&display=swap');
+
+body {
+  font-family: 'Lato', sans-serif;
+  background: #cfd3ce;
+
+  font-weight: 500;
+}
+
+card {
+  max-width: 200px;
+}
+
+layout header {
+  background-color: #cce7e8;
+}
+
+collapse {
+  text-align: center;
+  align-items: center;
+}
+
+#assetName {
+  font-size: 25px;
+}
+
+#colAssetsMedia {
+  background: #ececec;
+  padding: 30px;
+}
+
+#colAssetsMedia Statistic {
+  font-size: large;
+}
+
+#divAssets p {
+  font-size: 14px;
+}
+
+#siderDiv {
+  position: fixed;
+}
+
+.site-card-wrapper {
+  padding: 30px;
+  background: #cfd3ce;
+}
+
+.sider {
+  background-color: #cfd3ce;
+  /* bring your own prefixes */
+  /* height: 100%; */
+}
+
+.panelTitle {
+  font-size: large;
+  text-align: left;
+}
+
+.panelTitle p {
+  font-size: 15px;
+}
